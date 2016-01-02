@@ -1,9 +1,9 @@
 {
-  "name": "figaro",
-  "version": "0.1.9",
-  "description": "simple configuration of sensitive information on open source projects",
+  "name": "devintent-figaro",
+  "version": "0.2.0",
+  "description": "Simple configuration of sensitive information in open source projects",
   "main": "index.js",
-  "homepage": "https://github.com/cmanzana/node-figaro",
+  "homepage": "https://github.com/devintent/node-figaro",
   "bin": {
     "figaro": "./bin/figaro.js"
   },
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:cmanzana/node-figaro.git"
+    "url": "git@github.com:devintent/node-figaro.git"
   },
   "keywords": [
     "npm",
