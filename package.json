@@ -1,6 +1,6 @@
 {
   "name": "devintent-figaro",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Simple configuration of sensitive information in open source projects",
   "main": "index.js",
   "homepage": "https://github.com/devintent/node-figaro",
@@ -20,7 +20,7 @@
     "nopt": "2.2.x"
   },
   "engines": {
-      "node": "^0.10.x"
+      "node": ">=0.10.x"
   },
   "repository": {
     "type": "git",
